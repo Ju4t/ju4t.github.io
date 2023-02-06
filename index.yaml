@@ -3,9 +3,9 @@ entries:
   django:
   - apiVersion: v2
     appVersion: 4.1.4
-    created: "2022-12-24T19:01:30.095787+08:00"
+    created: "2023-02-06T15:52:11.3067+08:00"
     description: Django是一个有期限的完美主义者网络框架！
-    digest: 36940ed16647f23c3180a6d98554535ff835788d35b246b923a1d3a58c051b02
+    digest: bc90a986a08f8e529075915423e2eb72d4197931eb344b0417acee888573e211
     home: https://labdoc.cc/
     icon: https://charts.labdoc.cc/django/logo.png
     keywords:
@@ -24,4 +24,4 @@ entries:
     urls:
     - https://charts.labdoc.cc/django-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-24T19:01:30.093684+08:00"
+generated: "2023-02-06T15:52:11.305663+08:00"
