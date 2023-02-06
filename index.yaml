@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  django:
+  - apiVersion: v2
+    appVersion: 4.1.4
+    created: "2022-12-24T19:01:30.095787+08:00"
+    description: Django是一个有期限的完美主义者网络框架！
+    digest: 36940ed16647f23c3180a6d98554535ff835788d35b246b923a1d3a58c051b02
+    home: https://labdoc.cc/
+    icon: https://charts.labdoc.cc/django/logo.png
+    keywords:
+    - django
+    - nginx
+    - redis
+    - mysql
+    - gunicorn
+    - webserver
+    maintainers:
+    - email: ju4t@qq.com
+      name: 敬晓兵
+      url: https://labdoc.cc
+    name: django
+    type: application
+    urls:
+    - https://charts.labdoc.cc/django-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-24T19:01:30.093684+08:00"
